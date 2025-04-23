@@ -1,0 +1,3 @@
+[submodule "capstone_"]
+	path = capstone_
+	url = https://github.com/himajanttdata/capstone2.git~
