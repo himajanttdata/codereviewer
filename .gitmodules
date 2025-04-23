@@ -1,3 +1,19 @@
 [submodule "Capstone_"]
 	path = Capstone_
 	url = https://github.com/himajanttdata/capstone2.git
+
+
+[submodule "Capstone_/repos/sample"]
+    path = Capstone_/repos/sample
+    url = https://github.com/himajanttdata/sample.git
+
+
+[submodule "Capstone_/repos/test"]
+    path = Capstone_/repos/test
+    url = https://github.com/himajanttdata/test.git
+
+
+[submodule "Capstone_/repos/test_python"]
+    path = Capstone_/repos/test_python
+    url = https://github.com/himajanttdata/test_python.git
+
